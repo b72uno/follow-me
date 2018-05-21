@@ -106,4 +106,5 @@ data/raw_sim_data/
 data/sample_evaluation_data/
 data/train/
 data/validation/
+data/runs/
 
